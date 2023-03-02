@@ -2,10 +2,12 @@
   <div>
     <h2>Gebruikte apps</h2>
     <ul>
-        <li>Git</li>
+        <li>Github</li>
         <li>Visual studio code</li>
-        <li>Google Chrome</li>
-        <li>Vue</li>
+        <li>Google Chrome browser</li>
+        <li>VueJS</li>
+        <li>NodeJS</li>
+        <li>NPM</li>
     </ul>
   </div>  
 </template>
